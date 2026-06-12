@@ -4,12 +4,13 @@ Welcome to my personal portfolio website.
 
 About Me
 
-Final-year Computer Science student passionate about software development and problem solving.
+Final-year Information Technology student passionate about software development and problem solving.
 
 Skills
 
 - Java
 - Python
+- C
 - SQL
 - HTML
 - CSS
